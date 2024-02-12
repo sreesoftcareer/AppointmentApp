@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sreesoftcareer/AppointmentApp.git/static/css/main.f855e6bc.css",
+    "main.js": "/sreesoftcareer/AppointmentApp.git/static/js/main.475729c6.js",
+    "static/js/592.63e488ca.chunk.js": "/sreesoftcareer/AppointmentApp.git/static/js/592.63e488ca.chunk.js",
+    "static/media/logo.svg": "/sreesoftcareer/AppointmentApp.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sreesoftcareer/AppointmentApp.git/index.html",
+    "main.f855e6bc.css.map": "/sreesoftcareer/AppointmentApp.git/static/css/main.f855e6bc.css.map",
+    "main.475729c6.js.map": "/sreesoftcareer/AppointmentApp.git/static/js/main.475729c6.js.map",
+    "592.63e488ca.chunk.js.map": "/sreesoftcareer/AppointmentApp.git/static/js/592.63e488ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.475729c6.js"
+  ]
+}
